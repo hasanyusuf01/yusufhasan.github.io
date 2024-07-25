@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background: #1a1e23;
-    color: #333;
+    color: #fff;
 }
 
 header {
@@ -31,7 +31,7 @@ header nav ul li a {
 section {
     padding: 2em;
     margin: 1em auto;
-    background-color: #fff;
+    background-color: #1a1e23;
     width: 80%;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
